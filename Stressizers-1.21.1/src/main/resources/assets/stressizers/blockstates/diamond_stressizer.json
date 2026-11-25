@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stressizers:block/diamond_stressizer"
+    },
+    "facing=south": {
+      "model": "stressizers:block/diamond_stressizer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stressizers:block/diamond_stressizer",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "stressizers:block/diamond_stressizer",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "stressizers:block/diamond_stressizer",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "stressizers:block/diamond_stressizer",
+      "x": 90
+    }
+  }
+}
